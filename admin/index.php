@@ -54,7 +54,7 @@ exit();
 					<i class="icon-reorder shaded"></i>
 				</a>
 
-			  	<a class="brand" href="../index.html">
+			  	<a class="brand" href="./../index.html">
 			  		Grievance Management System | Admin
 			  	</a>
 
@@ -62,7 +62,7 @@ exit();
 				
 					<ul class="nav pull-right">
 
-						<li><a href="http://localhost:8080/gms/">
+						<li><a href="./../index.html">
 						Back to Homepage
 						
 						</a></li>

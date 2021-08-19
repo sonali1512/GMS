@@ -47,7 +47,7 @@ if(isset($_POST['submit']))
   <body>
 	  <div id="login-page">
 	  	<div class="container">
-	<h3 align="center" style="color:black"><a href="../index.html" style="color:black">Grievance Management System</a></h3>
+	<h3 align="center" style="color:black"><a href="./../index.html" style="color:black">Grievance Management System</a></h3>
 	<hr />
 		      <form class="form-login" method="post">
 		        <h2 class="form-login-heading">Create your New Account</h2>
@@ -75,7 +75,7 @@ if(isset($_POST['submit']))
 		            
 		            <div class="registration">
 		                Already Registered!!<br/>
-		                <a class="" href="index.php">
+		                <a class="" href="./index.php">
 		                   Sign in
 		                </a>
 		            </div>

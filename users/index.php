@@ -102,7 +102,7 @@ if(isset($_POST['change']))
 
 	  <div id="login-page">
 	  	<div class="container">
-	  		<h3 align="center" style="color:black"><a href="../index.html" style="color:black">Grievance Management System</a></h3>
+	  		<h3 align="center" style="color:black"><a href="./../index.html" style="color:black">Grievance Management System</a></h3>
 	<hr />
 		      <form class="form-login" name="login" method="post">
 		        <h2 class="form-login-heading">sign in</h2>
@@ -141,7 +141,7 @@ if(isset($_POST['change']))
 		      </form>
 		            <div class="registration">
 		                Don't have an account yet?<br/>
-		                <a class="" href="registration.php">
+		                <a class="" href="./registration.php">
 		                    Create an account
 		                </a>
 		            </div>
